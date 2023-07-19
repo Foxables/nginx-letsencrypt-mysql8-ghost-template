@@ -1,0 +1,11 @@
+db/**/*
+ghost/logs/**/*
+*.env
+vhost/*
+certs/*
+*.DS_Store
+!.gitignore
+!example.env
+!db/empty
+!vhost/empty
+!certs/empty
